@@ -1,1 +1,1 @@
-Examples for ESP32_C6 in PlatformIO ( VSCode )
+Examples for ESP32_C6 - PlatformIO ( VSCode )

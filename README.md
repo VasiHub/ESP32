@@ -1,2 +1,1 @@
-Examples for ESP32\_S3 in PlatformIO ( VSCode )
-
+Examples for my ESP32 boards
